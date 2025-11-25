@@ -1,4 +1,4 @@
-  README – AUCA System Access Policy (PL/SQL Triggers)
+AUCA System Access Policy (PL/SQL Triggers)
 Group (A) – Monday
 Course: INSY 8311 – Database Development with PL/SQL
 Lecturer: Maniraguha Eric
@@ -267,5 +267,6 @@ Notes:
 The procedure uses PL/SQL cursors to iterate through multiple records efficiently.
 
 You can extend it to handle a subset of employees by adding a WHERE clause in the cursor query.
+
 
 This demonstrates bulk processing, dynamic SQL usage, and proper exception handling in PL/SQL.
